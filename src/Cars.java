@@ -36,6 +36,6 @@ public class Cars extends Showroom implements utility{
         car_type = sc.nextLine();
         System.out.print("TRANSMISSION TYPE(AUTOMATIC/MANUAL): ");
         car_transmission = sc.nextLine();
-        total_cars_in_stock++;
+        
     }
 }
